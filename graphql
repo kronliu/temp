@@ -1,0 +1,25 @@
+GraphQL
+	- GraphQL is a query language
+	
+GraphQL vs REST
+	- Only one endpoint
+	- No more over or under-fetching
+	
+Query
+	- Queries fetch data – like a GET in rest
+	
+Mutation
+	- Mutations change data – like POST, UPDATE, and Delete in REST
+	
+TypeDefs
+	- Serves as the structure of your data
+	
+Resolvers
+	- Serves as the function to populate Query and Mutation type
+	
+Basic Types
+	- String
+	- Int
+	- Float
+	- Boolean
+  - ID
